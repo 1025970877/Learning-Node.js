@@ -1,7 +1,7 @@
 #  MY FIRST ASYNC I/O!
 ### 你学习NODE.JS赢得很多！
 LEARN YOU THE NODE.JS FOR MUCH WIN!
-### 我的第一个异步I / O！ （练习4的13）
+### 我的第一个异步I / O！ （练习13-4）
 MY FIRST ASYNC I/O! (Exercise 4 of 13) 
 
 #### **编写一个使用单个异步文件系统操作的程序来读取一个文件，并将其中包含的换行符的数量打印到控制台（stdout），类似于运行   cat file | wc -l。**
